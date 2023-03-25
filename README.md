@@ -15,7 +15,7 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd twitter-clone
+    cd twitter
 
 Install all the dependencies using composer
 
